@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+python-jose
+sqlalchemy
+databases
+python-decouple
+psycopg2-binary
+requests
